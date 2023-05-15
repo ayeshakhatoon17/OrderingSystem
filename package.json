@@ -1,0 +1,25 @@
+{
+  "name": "orderingsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayeshakhatoon17/OrderingSystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayeshakhatoon17/OrderingSystem/issues"
+  },
+  "homepage": "https://github.com/ayeshakhatoon17/OrderingSystem#readme",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
